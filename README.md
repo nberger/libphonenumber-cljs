@@ -4,7 +4,7 @@
 
 ## Usage
 
-Add dependency: `[nberger/libphonenumber-cljs "0.1.0-SNAPSHOT"]`
+Add dependency: `[nberger/libphonenumber-cljs "7.1.0-SNAPSHOT"]`
 
 Use it:
 

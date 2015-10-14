@@ -1,4 +1,4 @@
-(defproject nberger/libphonenumber-cljs "0.1.0-SNAPSHOT"
+(defproject nberger/libphonenumber-cljs "7.1.0-SNAPSHOT"
   :description "libphonenumber packaged for cljs"
   :url "http://github.com/nberger/libphonenumber-cljs"
   :license {:name "Eclipse Public License"
