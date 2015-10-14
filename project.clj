@@ -1,4 +1,4 @@
-(defproject nberger/libphonenumber-cljs "7.1.0"
+(defproject nberger/libphonenumber-cljs "7.1.1-SNAPSHOT"
   :description "libphonenumber packaged for cljs"
   :url "http://github.com/nberger/libphonenumber-cljs"
   :deploy-repositories [["releases" :clojars]]
